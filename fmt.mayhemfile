@@ -1,0 +1,5 @@
+project: nixpkgs-fmt
+target: fmt
+
+cmds:
+    - cmd: /fmt
